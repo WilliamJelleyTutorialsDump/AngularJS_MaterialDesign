@@ -1,0 +1,11 @@
+{
+  "name": "test_application",
+  "version": "1.0.0",
+  "description": "Testing out Material Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "wills",
+  "license": "ISC"
+}
